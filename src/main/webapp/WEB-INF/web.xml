@@ -9,14 +9,13 @@
     <display-name>Tp4Project</display-name>
     
     <welcome-file-list>
-	    <welcome-file>listProduits</welcome-file>
+	    <welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
 	
 	<servlet>
 	    <servlet-name>list</servlet-name>
 	    <servlet-class>web.ListProduitServlet</servlet-class>
 	</servlet>
-	
 	<servlet-mapping>
 	    <servlet-name>list</servlet-name>
 	    <url-pattern>/listProduits</url-pattern>
@@ -26,9 +25,35 @@
 	    <servlet-name>add</servlet-name>
 	    <servlet-class>web.AddProduitServlet</servlet-class>
 	</servlet>
-	
 	<servlet-mapping>
 	    <servlet-name>add</servlet-name>
 	    <url-pattern>/addProduit</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>delete</servlet-name>
+		<servlet-class>web.DeleteProduitServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>delete</servlet-name>
+		<url-pattern>/deleteProduit</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>edit</servlet-name>
+		<servlet-class>web.EditProduitServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>edit</servlet-name>
+		<url-pattern>/editProduit</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>update</servlet-name>
+		<servlet-class>web.UpdateProduitServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>update</servlet-name>
+		<url-pattern>/updateProduit</url-pattern>
 	</servlet-mapping>
 </web-app>
