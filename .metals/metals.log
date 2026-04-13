@@ -620,3 +620,35 @@ INFOS: Unsupported notification method: $/setTrace
 2026.04.12 23:39:25 INFO  Memory monitor stopped
 2026.04.12 23:39:25 INFO  shutting down Metals
 2026.04.12 23:39:25 INFO  Exiting server
+2026.04.13 21:50:31 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\jee-mvc1-product-management' for client Visual Studio Code 1.115.0.
+2026.04.13 21:50:31 INFO  Memory monitor started
+2026.04.13 21:50:33 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.13 21:50:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+avr. 13, 2026 9:50:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.13 21:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+2026.04.13 21:54:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc1-product-management\src\main\java\filters\AuthFilter.java. Using fallback presentation compiler.
+avr. 13, 2026 9:54:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 13, 2026 9:54:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 13, 2026 9:54:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 13, 2026 9:54:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 13, 2026 9:55:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 13, 2026 9:55:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
