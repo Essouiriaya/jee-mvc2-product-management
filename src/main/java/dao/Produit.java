@@ -14,37 +14,15 @@ public class Produit{
         this.setPrix(prix);
     }
 
-	public long getIdProduit() {
-		return idProduit;
-	}
+	public long getIdProduit() { return idProduit; }
+	public void setIdProduit(long idProduit) { this.idProduit = idProduit; }
 
-	public void setIdProduit(long idProduit) {
-		this.idProduit = idProduit;
-	}
+	public String getNom() { return nom; }
+    public void setNom(String nom) { this.nom = nom; }
 
-	public String getNom() {
-		return nom;
-	}
+	public String getDescription() { return description; }
+	public void setDescription(String description) { this.description = description; }
 
-	public void setNom(String nom) {
-		this.nom = nom;
-	}
-
-	public String getDescription() {
-		return description;
-	}
-
-	public void setDescription(String description) {
-		this.description = description;
-	}
-
-	public Double getPrix() {
-		return prix;
-	}
-
-	public void setPrix(Double prix) {
-		this.prix = prix;
-	}
-    
-    
+	public Double getPrix() { return prix; }
+	public void setPrix(Double prix) { this.prix = prix; }
 }
