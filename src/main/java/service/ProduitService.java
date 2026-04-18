@@ -1,9 +1,9 @@
-package services;
+package service;
 
 import java.util.List;
-import dao.Produit;
+import model.Produit;
 
-public interface ProduitMetier {
+public interface ProduitService {
     void addProduit(Produit p);
     void deleteProduit(Long id);
     List<Produit> getAllProduits();

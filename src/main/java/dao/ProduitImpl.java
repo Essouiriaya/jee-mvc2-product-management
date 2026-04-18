@@ -1,43 +1,62 @@
 package dao;
 
-import java.util.*;
+import model.Produit;
+import util.HibernateUtil;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
+import java.util.List;
 
 public class ProduitImpl implements ProduitDAO {
 
-    private List<Produit> produits = new ArrayList<>();
-
-    public void init(){
-        addProduit(new Produit("PC 1","Sony",7000.0));
-        addProduit(new Produit("PC 2","HP",6000.0));
-    }
-
     public void addProduit(Produit p) {
-        p.setIdProduit((long) (produits.size()+1));
-        produits.add(p);
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        Transaction tx = session.beginTransaction();
+
+        session.save(p);
+
+        tx.commit();
+        session.close();
     }
 
     public void deleteProduit(Long id) {
-        produits.remove(getProduitById(id));
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        Transaction tx = session.beginTransaction();
+
+        Produit p = session.get(Produit.class, id);
+        if (p != null) {
+            session.delete(p);
+        }
+
+        tx.commit();
+        session.close();
     }
 
     public Produit getProduitById(Long id) {
-        for(Produit p:produits){
-            if(p.getIdProduit()== id) return p;
-        }
-        return null;
+        Session session = HibernateUtil.getSessionFactory().openSession();
+
+        Produit p = session.get(Produit.class, id);
+
+        session.close();
+        return p;
     }
 
     public List<Produit> getAllProduits() {
-        return produits;
+        Session session = HibernateUtil.getSessionFactory().openSession();
+
+        List<Produit> list = session.createQuery("from Produit", Produit.class).list();
+
+        session.close();
+        return list;
     }
 
     public void updateProduit(Produit p) {
-        for(Produit pr:produits){
-            if(pr.getIdProduit() == p.getIdProduit()){
-                pr.setNom(p.getNom());
-                pr.setDescription(p.getDescription());
-                pr.setPrix(p.getPrix());
-            }
-        }
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        Transaction tx = session.beginTransaction();
+
+        session.update(p);
+
+        tx.commit();
+        session.close();
     }
 }

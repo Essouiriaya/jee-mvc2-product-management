@@ -652,3 +652,1214 @@ avr. 13, 2026 9:55:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 INFOS: Unsupported notification method: $/setTrace
 avr. 13, 2026 9:55:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:26:22 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\Desktop\jee-mvc1-product-management' for client Visual Studio Code 1.116.0.
+2026.04.18 12:26:22 INFO  Memory monitor started
+2026.04.18 12:26:28 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.18 12:26:29 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:26:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:26:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:26:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+2026.04.18 12:26:29 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:26:30 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:26:29 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:26:29 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:26:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10
+2026.04.18 12:26:30 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:26:30 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:26:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 11
+2026.04.18 12:27:08 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:27:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:28:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:28:07 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:28:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:28:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:28:14 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\AuthServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:28:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:28:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:28:48 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+avr. 18, 2026 12:30:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:30:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:31:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:31:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:32:50 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:50 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 44
+2026.04.18 12:32:50 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:32:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:32:50 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 54
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 55
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:51 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:52 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 65
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 69
+avr. 18, 2026 12:32:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 71
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 70
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 76
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 75
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:54 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 77
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 81
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 83
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:55 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:56 WARN  no build target for: C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java
+2026.04.18 12:32:56 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:32:58 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:33:01 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:33:01 WARN  no build target for: C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\util\HibernateUtil.java
+2026.04.18 12:33:01 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+avr. 18, 2026 12:33:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:33:01 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:33:02 WARN  no build target for: C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\AuthServlet.java
+2026.04.18 12:33:02 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\AuthServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:33:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:33:03 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\AuthServlet.java. Using fallback presentation compiler.
+2026.04.18 12:33:03 WARN  no build target for: C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 12:33:03 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:33:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:33:04 WARN  no build target for: C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 12:33:05 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:33:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:33:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:33:05 INFO  no build target found for C:\Users\hp\Desktop\jee-mvc1-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 12:33:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:33:33 INFO  Shutting down server
+2026.04.18 12:33:33 INFO  Memory monitor stopped
+2026.04.18 12:33:33 INFO  shutting down Metals
+2026.04.18 12:33:33 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.18 12:33:33 INFO  Exiting server
+2026.04.18 12:42:37 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hp\eclipseJEE\jee-mvc2-product-management' for client Visual Studio Code 1.116.0.
+2026.04.18 12:42:37 INFO  Memory monitor started
+2026.04.18 12:42:40 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.18 12:42:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1
+2026.04.18 12:42:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+avr. 18, 2026 12:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 6
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:47 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+avr. 18, 2026 12:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3
+avr. 18, 2026 12:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 11
+avr. 18, 2026 12:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 17
+2026.04.18 12:42:49 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/model/Produit.java. Output:
+
+2026.04.18 12:42:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14
+avr. 18, 2026 12:42:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 21
+2026.04.18 12:42:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 19
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:50 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:50 INFO  Created report: Optional[file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/model/Produit.java]
+2026.04.18 12:42:50 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/model/Produit.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_12-42-50-428.md")
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 27
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 28
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 20
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 23
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 31
+2026.04.18 12:42:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:52 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:42:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:55 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:42:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 49
+2026.04.18 12:42:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:42:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:43:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:47:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 67
+2026.04.18 12:47:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:47:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 72
+2026.04.18 12:47:41 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:47:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:48 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:47:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:50 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:47:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:51 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:47:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:47:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: Range [-1, 364) out of bounds for length 1144
+java.lang.StringIndexOutOfBoundsException: Range [-1, 364) out of bounds for length 1144
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4865)
+	at java.base/java.lang.String.substring(String.java:2834)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.04.18 12:47:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:47:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 106
+2026.04.18 12:47:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:47:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 126
+2026.04.18 12:47:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:58 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:47:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:47:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:01 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:48:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:48:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 150
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:05 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:48:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:06 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:06 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:48:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 183
+2026.04.18 12:48:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:48:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 191
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:15 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:48:15 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:48:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 207
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:18 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:48:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:48:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:50:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:28 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:50:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:50:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:39 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:40 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:42 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:44 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 294
+2026.04.18 12:50:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 301
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 315
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 319
+2026.04.18 12:50:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 331
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 335
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:52 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:50:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 350
+2026.04.18 12:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:55 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:57 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:59 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:50:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:50:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:01 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:51:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 411
+2026.04.18 12:51:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:05 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:10 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:13 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:15 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:15 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:51:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 465
+2026.04.18 12:51:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:20 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:22 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:25 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:28 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:29 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:29 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:29 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:29 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:30 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:30 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:36 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java
+2026.04.18 12:51:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+2026.04.18 12:51:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\model\Produit.java. Using fallback presentation compiler.
+avr. 18, 2026 12:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:52:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:12 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 18, 2026 12:52:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:52:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:52:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:52:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:52:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:19 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:52:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:52:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:52:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 18, 2026 12:52:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:52:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:52:50 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java
+2026.04.18 12:52:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:53:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 593
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:53:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:53:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 597
+2026.04.18 12:53:04 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:53:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:06 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:11 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java
+2026.04.18 12:53:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:11 INFO  Created report: Optional[file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/dao/ProduitImpl.java]
+2026.04.18 12:53:11 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/dao/ProduitImpl.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_12-53-11-850.md")
+2026.04.18 12:53:11 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/dao/ProduitImpl.java. Output:
+
+2026.04.18 12:53:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:23 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java
+2026.04.18 12:53:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:24 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java
+2026.04.18 12:53:24 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/dao/ProduitImpl.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_12-53-11-850.md")
+2026.04.18 12:53:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:24 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/dao/ProduitImpl.java. Output:
+
+2026.04.18 12:53:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:27 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java
+2026.04.18 12:53:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:30 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:30 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:53:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+avr. 18, 2026 12:53:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:53:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:53:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:53:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:53:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:53:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:53:59 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java
+2026.04.18 12:53:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\util\HibernateUtil.java. Using fallback presentation compiler.
+2026.04.18 12:54:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:54:05 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java
+2026.04.18 12:54:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:54:06 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:54:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+avr. 18, 2026 12:54:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:54:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:54:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitImpl.java. Using fallback presentation compiler.
+2026.04.18 12:54:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:54:07 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java
+2026.04.18 12:54:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:54:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+2026.04.18 12:54:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 18, 2026 12:54:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 12:54:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 12:54:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\dao\ProduitDAO.java. Using fallback presentation compiler.
+avr. 18, 2026 12:54:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:01:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:09:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:09:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:10:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:10:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 18, 2026 1:10:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 13:10:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:10:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 13:15:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:22 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:15:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:29 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:31 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:36 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:15:36 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:40 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:43 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:15:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 791
+2026.04.18 13:15:57 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:15:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:15:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 INFO  Created report: Optional[file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java]
+2026.04.18 13:16:50 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:16:50 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:52 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:16:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:53 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:55 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:16:56 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:16:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:56 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:16:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:57 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:16:56 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:16:57 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:16:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:16:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 960
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:16:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 976
+2026.04.18 13:17:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:17:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 984
+2026.04.18 13:17:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:04 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:04 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:04 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:07 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:08 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:09 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:10 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:10 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:10 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:10 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:14 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:14 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:13 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:14 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:15 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:15 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:15 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:15 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:15 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:15 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:17 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:21 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:21 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:22 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:24 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:26 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:26 INFO  QDox parse error in file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java (full report at: "C:\Users\hp\eclipseJEE\jee-mvc2-product-management\.metals\.reports\metals-full\2026-04-18\r_qdox-error_13-16-50-043.md")
+2026.04.18 13:17:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:26 WARN  Running javac-semanticdb failed for file:///C:/Users/hp/eclipseJEE/jee-mvc2-product-management/src/main/java/controller/ProduitServlet.java. Output:
+
+2026.04.18 13:17:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:27 WARN  no build target for: C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java
+2026.04.18 13:17:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+avr. 18, 2026 1:17:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.18 13:17:46 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:47 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:17:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:25:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:25:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:25:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:35:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:35:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:35:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 13:59:57 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:31 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:31 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:04:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:05:27 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:05:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:05:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:05:30 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:07:32 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:07:32 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:07:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:07:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:09:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:09:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:09:56 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:09:58 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:14:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:33 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:34 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:35 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:48 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:51 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 14:19:52 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:43:32 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:43:32 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:48:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:48:39 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:54:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:54:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:57:31 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:57:32 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:57:54 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 15:57:55 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:05 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:06 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:23 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:25 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:26 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:28 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:45 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:49 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:02:50 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:04:37 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:04:38 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:05:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:05:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:13:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:13:59 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:14:00 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:14:02 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:14:03 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:22:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:22:11 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:25:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:25:01 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:26:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:26:44 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:27:16 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:27:18 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:28:20 INFO  no build target found for C:\Users\hp\eclipseJEE\jee-mvc2-product-management\src\main\java\controller\ProduitServlet.java. Using fallback presentation compiler.
+2026.04.18 16:38:13 INFO  Shutting down server
+2026.04.18 16:38:13 INFO  Memory monitor stopped
+2026.04.18 16:38:13 INFO  shutting down Metals
+2026.04.18 16:38:13 INFO  Exiting server

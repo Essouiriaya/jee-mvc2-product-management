@@ -1,41 +1,25 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-
+<!DOCTYPE html>
 <html>
 <head>
-<title>Login</title>
+    <title>Login</title>
 </head>
-
 <body>
 
 <h2>Login</h2>
 
-<%
-String error = request.getParameter("error");
-if(error != null){
-%>
+<form action="<%= request.getContextPath() %>/auth" method="post">
+    <input type="hidden" name="action" value="login">
 
-<p style="color:red">Invalid username or password</p>
-
-<%
-}
-%>
-
-<form action="login" method="post">
-
-Username :
-<input type="text" name="username" required>
-
-<br><br>
-
-Password :
-<input type="password" name="password" required>
-
-<br><br>
-
-<input type="submit" value="Login">
-
+    Username: <input type="text" name="username"><br>
+    <br>
+    Password: <input type="password" name="password"><br>
+    <br>
+    <button type="submit">Login</button>
 </form>
+
+<% if (request.getParameter("error") != null) { %>
+    <p style="color:red;">Invalid credentials</p>
+<% } %>
 
 </body>
 </html>
