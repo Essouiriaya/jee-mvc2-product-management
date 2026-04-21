@@ -53,6 +53,7 @@ public class AuthServlet extends HttpServlet {
                 session.setAttribute("user", username);
                 session.setAttribute("role", "USER");
                 System.out.println("LOGIN SUCCESS");
+                System.out.println("SESSION ID LOGIN = " + session.getId());
 
                 resp.sendRedirect(req.getContextPath() + "/produit?action=list");
 

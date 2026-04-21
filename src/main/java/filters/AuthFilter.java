@@ -13,25 +13,19 @@ public class AuthFilter implements Filter {
         HttpServletRequest req = (HttpServletRequest) request;
         HttpServletResponse resp = (HttpServletResponse) response;
 
-        HttpSession session = req.getSession(false);
-
         String uri = req.getRequestURI();
 
-        if (uri.contains("login.jsp") || uri.contains("login")) {
+        HttpSession session = req.getSession(false);
 
+        if (uri.endsWith("login.jsp") || uri.endsWith("/auth")) {
             chain.doFilter(request, response);
             return;
-
         }
 
         if (session != null && session.getAttribute("user") != null) {
-
             chain.doFilter(request, response);
-
         } else {
-
-            resp.sendRedirect("login.jsp");
-
+            resp.sendRedirect(req.getContextPath() + "/login.jsp");
         }
     }
 }

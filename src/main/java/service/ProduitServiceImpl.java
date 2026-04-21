@@ -19,6 +19,7 @@ public class ProduitServiceImpl implements ProduitService {
             instance = new ProduitServiceImpl();
         return instance;
     }
+    
 
     @Override
     public void addProduit(Produit p) {

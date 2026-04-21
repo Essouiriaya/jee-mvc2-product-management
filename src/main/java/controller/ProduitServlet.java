@@ -59,6 +59,25 @@ public class ProduitServlet extends HttpServlet {
 
                 resp.sendRedirect(req.getContextPath() + "/produit?action=list");
                 break;
+                
+            case "searchById":
+
+                Long id1 = Long.parseLong(req.getParameter("id"));
+                Produit p = service.getProduitById(id1);
+
+                req.setAttribute("mode", "list");
+
+                if (p != null) {
+                    req.setAttribute("produits", java.util.Arrays.asList(p));
+                } else {
+                    req.setAttribute("produits", service.getAllProduits());
+                    req.setAttribute("error", "Produit introuvable");
+                }
+
+                req.getRequestDispatcher("/WEB-INF/views/index.jsp")
+                        .forward(req, resp);
+                break;
+             
 
             default:
                 resp.sendRedirect(req.getContextPath() + "/produit?action=list");
